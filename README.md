@@ -7,3 +7,5 @@ O objetivo deste projeto é praticar a base do desenvolvimento web usando HTML5 
 A visualização do site pode ser feita acessando o seguinte link: https://unes.radamanto.repl.co
 
 Nível do projeto: Iniciante.
+
+Licença: GNU GPLv3
